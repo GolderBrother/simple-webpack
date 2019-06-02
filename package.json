@@ -1,0 +1,14 @@
+{
+  "name": "simple-webpack",
+  "version": "1.0.0",
+  "description": "A simple webpack",
+  "scripts": {
+    "build": "node ./build/build.js"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/parser": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/traverse": "^7.4.5"
+  }
+}
